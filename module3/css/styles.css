@@ -47,11 +47,18 @@ line-height:50px;
 }
 
 
+.row{
+  margin:15px;
+}
 
+.sectors{
+   background-color: #CDE7DC;
+}
 
-/*.row section{
-  margin: 15px;
-}*/
+.row div{
+  padding:  15px;
+ 
+}
 
 @media (max-width: 575px){
  
